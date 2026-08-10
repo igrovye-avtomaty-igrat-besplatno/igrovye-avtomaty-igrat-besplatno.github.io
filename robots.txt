@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty-igrat-besplatno.github.io
+Sitemap: https://igrovye-avtomaty-igrat-besplatno.github.io/sitemap.xml
